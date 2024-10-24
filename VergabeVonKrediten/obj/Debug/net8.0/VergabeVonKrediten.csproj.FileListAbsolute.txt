@@ -1,0 +1,14 @@
+C:\Users\jouon\RiderProjects\VergabeVonKrediten\VergabeVonKrediten\bin\Debug\net8.0\VergabeVonKrediten.exe
+C:\Users\jouon\RiderProjects\VergabeVonKrediten\VergabeVonKrediten\bin\Debug\net8.0\VergabeVonKrediten.deps.json
+C:\Users\jouon\RiderProjects\VergabeVonKrediten\VergabeVonKrediten\bin\Debug\net8.0\VergabeVonKrediten.runtimeconfig.json
+C:\Users\jouon\RiderProjects\VergabeVonKrediten\VergabeVonKrediten\bin\Debug\net8.0\VergabeVonKrediten.dll
+C:\Users\jouon\RiderProjects\VergabeVonKrediten\VergabeVonKrediten\bin\Debug\net8.0\VergabeVonKrediten.pdb
+C:\Users\jouon\RiderProjects\VergabeVonKrediten\VergabeVonKrediten\obj\Debug\net8.0\VergabeVonKrediten.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jouon\RiderProjects\VergabeVonKrediten\VergabeVonKrediten\obj\Debug\net8.0\VergabeVonKrediten.AssemblyInfoInputs.cache
+C:\Users\jouon\RiderProjects\VergabeVonKrediten\VergabeVonKrediten\obj\Debug\net8.0\VergabeVonKrediten.AssemblyInfo.cs
+C:\Users\jouon\RiderProjects\VergabeVonKrediten\VergabeVonKrediten\obj\Debug\net8.0\VergabeVonKrediten.csproj.CoreCompileInputs.cache
+C:\Users\jouon\RiderProjects\VergabeVonKrediten\VergabeVonKrediten\obj\Debug\net8.0\VergabeVonKrediten.dll
+C:\Users\jouon\RiderProjects\VergabeVonKrediten\VergabeVonKrediten\obj\Debug\net8.0\refint\VergabeVonKrediten.dll
+C:\Users\jouon\RiderProjects\VergabeVonKrediten\VergabeVonKrediten\obj\Debug\net8.0\VergabeVonKrediten.pdb
+C:\Users\jouon\RiderProjects\VergabeVonKrediten\VergabeVonKrediten\obj\Debug\net8.0\VergabeVonKrediten.genruntimeconfig.cache
+C:\Users\jouon\RiderProjects\VergabeVonKrediten\VergabeVonKrediten\obj\Debug\net8.0\ref\VergabeVonKrediten.dll
