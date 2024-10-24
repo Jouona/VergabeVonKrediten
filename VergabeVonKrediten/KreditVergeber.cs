@@ -3,7 +3,7 @@ using VergabeVonKrediten.Validation;
 
 namespace VergabeVonKrediten;
 
-public struct KreditVergeber(int anzahlKrediteZuVergeben) {
+public class KreditVergeber(int anzahlKrediteZuVergeben) {
     int vergabeVonKrediten = anzahlKrediteZuVergeben;
 
     public bool KreditVergeben(Antrag? antrag) {
