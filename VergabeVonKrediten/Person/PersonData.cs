@@ -1,4 +1,4 @@
-﻿namespace VergabeVonKrediten;
+﻿namespace VergabeVonKrediten.Person;
 
 using VergabeVonKrediten.Datatypes;
 
@@ -23,6 +23,8 @@ public class PersonData {
 
     public void AddKredit(Kredit kredit) => kredits.Add(kredit);
     public void RemoveAllKredits() => kredits.Clear();
+
+    
 
     int NichtAbbezahlteKredite() {
         int count = 0;

@@ -1,4 +1,6 @@
-﻿namespace VergabeVonKrediten;
+﻿using VergabeVonKrediten.Person;
+
+namespace VergabeVonKrediten;
 
 using VergabeVonKrediten.Datatypes;
 
